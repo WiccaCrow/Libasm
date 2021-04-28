@@ -1,0 +1,21 @@
+ft_strlen        Hello!
+ft_strlen I'm     glad to  meet you :-)
+ft_strlen hi
+ft_strlen 
+ft_strlen
+ft_strcpy My name is Wicca.
+ft_strcpy What's your name?
+regsregred
+ 
+ft_strcmp Good
+ft_strcmp qwerty*
+ft_strcmp q*12345
+ft_strcmp qwerty*12345
+ft_strcmp §*
+ft_strcmp *12345
+ft_write Good day!!!
+ft_write 
+ft_write la-la-la-la-la 12
+ft_read 
+
+ft_strdup DuDuDuDuDuDu...
